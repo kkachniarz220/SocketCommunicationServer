@@ -1,0 +1,6 @@
+name: SocketCommunicationServer
+version: 1.0
+main: com.meme3321.serverscommunication.serverscommunication.ServersCommunication
+api-version: 1.13
+authors: [meme3321]
+description: Connect your servers via socket (Server)
